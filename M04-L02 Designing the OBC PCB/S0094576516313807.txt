@@ -1,0 +1,11 @@
+David Honess, Oliver Quinlan,
+Astro Pi: Running your code aboard the International Space Station,
+Acta Astronautica,
+Volume 138,
+2017,
+Pages 43-52,
+ISSN 0094-5765,
+https://doi.org/10.1016/j.actaastro.2017.05.023.
+(https://www.sciencedirect.com/science/article/pii/S0094576516313807)
+Abstract: A team of leading United Kingdom (UK) space companies, in collaboration with the Raspberry Pi Foundation (RPF), created the Astro Pi project (www.astro-pi.org) in order to exploit the outreach possibilities offered by the flight of British European Space Agency (ESA) astronaut Tim Peake to the International Space Station (ISS) between December 2015 and June 2016. At the core of the project is the Astro Pi payload, which was developed to be taken to the ISS and into classrooms. It consists of a Raspberry Pi B+ computer, an add-on board called the Sense Hardware Attached on Top (HAT), a camera, a joystick, and six push buttons. The Sense HAT board was designed to host a range of sensors and input/output devices to be used for experiments aboard the ISS and in the classroom. The payload was qualified for spaceflight in 2015, and a competition was run to promote engagement between schools and the UK space industry that was supported by a range of learning resources. The payload was launched into space on the Orbital Sciences OA-4 Cygnus cargo freighter in December 2015, and the winning experiments were run on the ISS by Tim Peake in early 2016. These generated a range of data for analysis on the ground. Between February and March 2016, a second competition was run. In both competitions, the prize was to have students' code uploaded and run on the Astro Pi payload by Tim Peake. This paper is divided into four sections. The first provides details of the Cygnus launch and flight operations aboard the ISS. The second reviews the results of the first competition, and how these were distributed and analysed by the schools. The third covers the second competition including its results, impact, and engagement. The fourth details ongoing outreach, events, and the establishment of a long-term legacy for Astro Pi. This paper continues the work in the 2015 paper ASTRO PI: LAUNCH YOUR CODE INTO SPACE (IAC-15-E1.2.1); readers may consult the original paper for context first.
+Keywords: Education; STEM; Computing; Programming; Coding; Peake
